@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mir Md. Moshiu Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikislam-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="anikislam-sudo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikislam-sudo" alt="anikislam-sudo" /></a> </p>
